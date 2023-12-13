@@ -1,0 +1,7 @@
+<extension type="JavaScriptStep">
+    <name>fsdfsdf adfgdasf</name>
+    <version>14.0</version>
+    <command>node</command>
+    <description>This step runs a Node.js program.</description>
+    <author>John Doe</author>
+</extension>
